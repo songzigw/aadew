@@ -1,0 +1,24 @@
+{
+  "name": "songm-request",
+  "version": "0.0.1",
+  "description": "HTTP request library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/songzigw/songm-requst.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "ajax"
+  ],
+  "author": "zhangsong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songzigw/songm-requst/issues"
+  },
+  "homepage": "https://github.com/songzigw/songm-requst#readme"
+}
